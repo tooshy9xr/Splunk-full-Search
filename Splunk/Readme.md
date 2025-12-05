@@ -32,5 +32,5 @@ Welcome to my **Splunk Security Operations & Threat Analysis project**! 🚀 Thi
 - 9️⃣ Frameworks
 
 ## use search in splunk
-[link](Splunk/Fundamental-Searches)
+[link](/Fundamental-Searches/FS.md)
 ---
