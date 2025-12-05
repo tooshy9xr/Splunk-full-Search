@@ -28,19 +28,7 @@ Present real technical skills to recruiters and security teams.
 - 7️⃣ Use Cases
 - 8️⃣ Threat Hunting
 - 9️⃣ Frameworks
-
-## - CTF
-- picoctf
-- Tryhackme ctf
-- Hackthebox ctf
-
-## - Programming
-- Python
-- Go
-- C / C++
-- Bash
-- PowerShell
-- java
+  
 ---
 ## 📞 Contact
 - GitHub: [link](https://github.com/tooshy9xr)
