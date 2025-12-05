@@ -1,0 +1,23 @@
+# 📝 Fundamental Searches (FS)
+
+The **Fundamental Searches (FS)** folder contains **basic Splunk searches** designed to help monitor and analyze core log data from various systems. These searches focus on common security and operational events, providing a foundation for SOC analysis, incident response, and threat detection.
+
+## 🔹 Purpose
+- Teach and demonstrate **basic SPL query construction**.  
+- Monitor **authentication, system logs, application logs**, and other standard events.  
+- Serve as building blocks for **advanced searches, dashboards, and alerts**.  
+---
+## 🔹 Contents
+- **Authentication Searches** – Track successful and failed logins.  
+- **System Logs** – Monitor operating system events and errors.  
+- **Application Logs** – Basic monitoring for app-specific events.  
+- **Sample Data** – Optional small log files for testing and demonstration.
+---
+## 🔹 Usage
+1. Open Splunk and select the appropriate index.  
+2. Copy the `.spl` search query into the Splunk search bar.  
+3. Adjust time ranges or filters as needed.  
+4. Analyze results or save as reports/dashboards for further investigation.
+
+This folder is the **starting point for learning Splunk searches** and sets the foundation for more advanced security monitoring and threat hunting workflows.  
+---
