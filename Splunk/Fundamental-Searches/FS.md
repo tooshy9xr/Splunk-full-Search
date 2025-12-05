@@ -19,5 +19,6 @@ The **Fundamental Searches (FS)** folder contains **basic Splunk searches** desi
 3. Adjust time ranges or filters as needed.  
 4. Analyze results or save as reports/dashboards for further investigation.
 
-This folder is the **starting point for learning Splunk searches** and sets the foundation for more advanced security monitoring and threat hunting workflows.  
+ 
 ---
+
