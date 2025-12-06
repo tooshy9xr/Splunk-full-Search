@@ -9,42 +9,35 @@ Each search includes a short explanation, purpose, and the SPL query.
 **Description:** Displays all successful login events with timestamp, username, and source IP.  
 **Purpose:** Provides a quick view of who logged in, when, and from where.
 
-🔍 [spl](Basic-Successful-Logins.spl)
+🔍 [SPL](Susccessful-login/Basic-Successful-Logins.spl)
 
----
 ## 🔹 2. Count Successful Logins by User
 
-Description: Counts how many successful logins each user has.
+Description: Counts how many successful logins each user has.<br>
 Purpose: Helps identify the most active accounts or unusual login spikes.
 
-🔍 SPL Query
+🔍 [SPL](Susccessful-login/Count-Successful-Logins-Use.spl)
 
-index=auth action=success
-| stats count by user
 
-🔹 3. Count Successful Logins by Source IP
+## 🔹 3. Count Successful Logins by Source IP
 
-Description: Shows how many logins came from each IP address.
+Description: Shows how many logins came from each IP address.<br>
 Purpose: Useful for spotting repeated logins from a single IP or unfamiliar sources.
 
-🔍 SPL Query
+🔍 [SPL](Susccessful-login/Count-Successful-Login-SourceIP.spl)
 
-index=auth action=success
-| stats count by src
+## 🔹 4. Last Successful Login Per User
 
-🔹 4. Last Successful Login Per User
-
-Description: Returns the latest (most recent) successful login time for each user.
+Description: Returns the latest (most recent) successful login time for each user.<br>
 Purpose: Good for tracking user activity and verifying expected login behavior.
 
-🔍 SPL Query
+🔍 [SPL](Susccessful-login/LastSuccessfulLogin.spl)
 
-index=auth action=success
-| stats latest(_time) as last_login by user
+## 🔹 5. Successful Logins per Hour
 
-🔹 5. Successful Logins per Hour
-
-Description: Simple time-based chart showing hourly successful logins.
+Description: Simple time-based chart showing hourly successful logins.<br>
 Purpose: Helps visualize login activity peaks or unusual patterns.
 
-🔍 SPL Query
+🔍 [SPL](Susccessful-login/Successful-Logins-Hour.spl)
+
+
