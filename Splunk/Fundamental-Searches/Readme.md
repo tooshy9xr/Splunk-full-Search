@@ -27,8 +27,8 @@ The **Fundamental Searches (FS)** folder contains **basic Splunk searches** desi
 - ⚪ auth_success.md [@](auth_success.md) :- Searching for successful user logins.
 - ⚪ SWindowsAuthentication.md [@](WindowsAuthentication.md) :- Easy Windows Authentication Searches
 - ⚪ LinuxAuthentication.md [@](LinuxAuthentication.md) :- Easy Linux Authentication Searches
-- ⚪  FailedAuthentication.md [@](/Failed-Authentication.md) :- Easy Failed Authentication Searches
-- ⚪
+- ⚪ FailedAuthentication.md [@](Failed-Authentication.md) :- Easy Failed Authentication Searches
+- ⚪ File-Access.md [@](File-Access.md) :- File Access Searches
 - ⚪
 - ⚪
 - ⚪
