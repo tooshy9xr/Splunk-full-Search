@@ -22,7 +22,7 @@ Welcome to my **Splunk Security Operations & Threat Analysis project**! 🚀 Thi
 ---
 ## 🖥️ Splunk Project Structure
 - 🌎 some of word use to search [link](Fundamental-Searches/word-use-search.md)
-- 1️⃣ Fundamental Searches [link](Fundamental-Searches/FS.md)
+- 1️⃣ Fundamental Searches [link](Fundamental-Searches/Readme.md)
 - 2️⃣ Advanced Searches
 - 3️⃣ Dashboards
 - 4️⃣ Alerts
