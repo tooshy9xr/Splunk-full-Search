@@ -1,2 +1,0 @@
-index=auth action=success
-| timechart span=1h count
