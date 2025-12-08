@@ -15,6 +15,7 @@ This repository showcases practical Splunk skills through:
 - 📝 Documentation of analysis, notes, and progress
 ---
 ## - [Splunk](Splunk)
+- 📜 reveiw a bout splunk
 - 🌎 some of word use to search 
 - 1️⃣ Fundamental Searches 
 - 2️⃣ Advanced Searches
