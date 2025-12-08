@@ -20,6 +20,7 @@ Welcome to my **Splunk Security Operations & Threat Analysis project**! 🚀 Thi
 - Threat Hunting & SOC Analysis 🎯  
 ---
 ## 🖥️ Splunk Project Structure
+- 📜 reveiw a bout splunk
 - 🌎 some of word use to search [link](Fundamental-Searches/word-use-search.md)
 - 1️⃣ Fundamental Searches [link](Fundamental-Searches/Readme.md)
 - 2️⃣ Advanced Searches
