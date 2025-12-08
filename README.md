@@ -60,6 +60,14 @@ This repository demonstrates practical Splunk skills through:
 
 ---
 
+## ⭐ Key Skills Highlighted
+- 🛡️ **Security Monitoring & Threat Detection**  
+- 🔎 **Incident Response & Digital Forensics (DFIR)**  
+- 📊 **Splunk SPL Query Writing & Dashboard Design**  
+- 🎯 **Threat Hunting & SOC Analysis**  
+
+---
+
 ## 🤝 Contribution
 Contributions are welcome!  
 Feel free to fork, submit pull requests, or open issues.  
