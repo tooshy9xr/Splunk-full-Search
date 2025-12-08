@@ -28,7 +28,7 @@ The **Fundamental Searches (FS)** folder contains **basic Splunk searches** desi
 - ⚪ UserCreation&Deletion.md [@](UserCreation&Deletion.md) :-  User Creation & Deletion — Windows & Linu
 - ⚪ ServiceStart-Stop.md [@](ServiceStart-Stop.md) :- Service Start/Stop — Windows & Linux
 - ⚪ SoftwareInstallation.md [@]( SoftwareInstallation.md) :- Software Installation — Windows & Linux
-- ⚪ Account-Lockouts.md [📝](Account-Lockouts.md) :- Account Lockouts — Windows & Linux
+- ⚪ Account-Lockouts.md [@](Account-Lockouts.md) :- Account Lockouts — Windows & Linux
 - ⚪
 - ⚪
 - ⚪
