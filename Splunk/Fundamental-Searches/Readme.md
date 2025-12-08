@@ -12,14 +12,13 @@ The **Fundamental Searches (FS)** folder contains **basic Splunk searches** to m
 ---
 
 ## 📂 Contents Overview
-- 🎯 **Sample Data** – Optional small log files for testing and demonstrations  
-- 🔐 **Authentication Searches** – Track successful and failed logins  
-- ⚙️ **System Logs & Services** – Monitor OS events, service status, CPU/Memory usage  
-- 📁 **Application & Process Monitoring** – Track apps, processes, and suspicious activity  
-- 🌐 **Network & Remote Access** – Monitor connections, firewalls, DNS, and remote logins  
-- 🛡 **Security & Privilege Monitoring** – Detect malware, privilege changes, account lockouts  
-- 📝 **Auditing & Threat Detection** – Critical file changes, logs deletion, configuration changes  
-
+- ![🎯](https://img.shields.io/badge/Sample-Data-purple) **Sample Data** – Optional small log files for testing and demonstrations  
+- ![🔐](https://img.shields.io/badge/Authentication-blue) **Authentication Searches** – Track successful and failed logins  
+- ![⚙️](https://img.shields.io/badge/System-OS%20Logs-orange) **System Logs & Services** – Monitor OS events, service status, CPU/Memory usage  
+- ![📁](https://img.shields.io/badge/Application-Processes-green) **Application & Process Monitoring** – Track apps, processes, and suspicious activity  
+- ![🌐](https://img.shields.io/badge/Network-Remote%20Access-lightgrey) **Network & Remote Access** – Monitor connections, firewalls, DNS, and remote logins  
+- ![🛡](https://img.shields.io/badge/Security-Privilege-red) **Security & Privilege Monitoring** – Detect malware, privilege changes, account lockouts  
+- ![📝](https://img.shields.io/badge/Auditing-Threat%20Detection-yellow) **Auditing & Threat Detection** – Critical file changes, logs deletion, configuration changes  
 
 ---
 
@@ -27,7 +26,6 @@ The **Fundamental Searches (FS)** folder contains **basic Splunk searches** to m
 
 ### 🎯 Miscellaneous / Sample Data
 - ⚪ [Word Use Search](word-use-search.md)  
-
 
 ### 🔐 Authentication
 - ⚪ [Successful Logins](auth_success.md)  
@@ -72,4 +70,4 @@ The **Fundamental Searches (FS)** folder contains **basic Splunk searches** to m
 
 ---
 
-✅ هذا الإصدار يسهّل على المستخدم **تحديد الفئة بسرعة** ويجعل الملف أكثر **جاذبية بصريًا** على GitHub.  
+✅ هذا الإصدار مع **badges ملونة لكل فئة** يجعل الملف أكثر **تفاعلية وجاذبية** على GitHub، ويسهّل على المستخدمين التعرف على الفئات بسرعة.
