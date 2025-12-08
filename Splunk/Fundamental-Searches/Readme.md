@@ -30,7 +30,7 @@ The **Fundamental Searches (FS)** folder contains **basic Splunk searches** desi
 - ⚪ SoftwareInstallation.md [@]( SoftwareInstallation.md) :- Software Installation — Windows & Linux
 - ⚪ Account-Lockouts.md [@](Account-Lockouts.md) :- Account Lockouts — Windows & Linux
 - ⚪ Malware-Detection.md [@](Malware-Detection.md) :- Malware Detection Pack — Windows & Linux
-- ⚪
+- ⚪ RemoteLoginDetection.md [@](RemoteLoginDetection.md) :-  Remote Login Detection — Windows & Linux  
 - ⚪
 - ⚪
 - ⚪
