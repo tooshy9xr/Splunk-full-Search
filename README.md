@@ -28,8 +28,8 @@ This repository demonstrates practical Splunk skills through:
 
 | Module | Description | Link |
 |--------|------------|------|
-| 🌎 **Word Use Search** | Sample text search utilities | [Explore](Splunk/Fundamental-Searches/word-use-search.md) |
 | 📜 **Overview for Splunk** | Review core concepts and project objectives | [Explore](#) |
+| 🌎 **Word Use Search** | Sample text search utilities | [Explore](Splunk/Fundamental-Searches/word-use-search.md) |
 | 📝 **Fundamental Searches** | Basic SPL queries for authentication, system, and application logs | [Explore](Splunk/Fundamental-Searches/Readme.md) |
 | 🧩 **Advanced Searches** | Subsearches, macros, lookups | [Explore](#) |
 | 📊 **Dashboards** | Interactive visualizations | [Explore](#) |
