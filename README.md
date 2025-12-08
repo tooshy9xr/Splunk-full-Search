@@ -28,17 +28,17 @@ This repository demonstrates practical Splunk skills through:
 
 | Module | Description | Link |
 |--------|------------|------|
-| 📜 **Overview for Splunk** | Review core concepts and project objectives | [Explore](#) |
+| 📜 **Overview for Splunk** | Review core concepts and project objectives | Explore |
 | 🌎 **Word Use Search** | Sample text search utilities | [Explore](Splunk/Fundamental-Searches/word-use-search.md) |
 | 📝 **Fundamental Searches** | Basic SPL queries for authentication, system, and application logs | [Explore](Splunk/Fundamental-Searches/Readme.md) |
-| 🧩 **Advanced Searches** | Subsearches, macros, lookups | [Explore](#) |
-| 📊 **Dashboards** | Interactive visualizations | [Explore](#) |
-| 🚨 **Alerts** | Real-time notifications | [Explore](#) |
-| 🔗 **Correlation Rules** | Multi-event detection | [Explore](#) |
-| 📥 **Data Onboarding** | Sample datasets & ingestion workflows | [Explore](#) |
-| 💼 **Use Cases** | SOC scenarios & threat hunting playbooks | [Explore](#) |
-| 🔍 **Threat Hunting** | Proactive anomaly detection | [Explore](#) |
-| 🛡️ **Frameworks** | Blue Team & Red Team templates | [Explore](#) |
+| 🧩 **Advanced Searches** | Subsearches, macros, lookups | Explore |
+| 📊 **Dashboards** | Interactive visualizations | Explore |
+| 🚨 **Alerts** | Real-time notifications | Explore |
+| 🔗 **Correlation Rules** | Multi-event detection | Explore) |
+| 📥 **Data Onboarding** | Sample datasets & ingestion workflows | Explore) |
+| 💼 **Use Cases** | SOC scenarios & threat hunting playbooks | Explore |
+| 🔍 **Threat Hunting** | Proactive anomaly detection | Explore |
+| 🛡️ **Frameworks** | Blue Team & Red Team templates | Explore |
 
 ---
 
