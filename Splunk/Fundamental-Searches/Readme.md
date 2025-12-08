@@ -33,7 +33,7 @@ The **Fundamental Searches (FS)** folder contains **basic Splunk searches** desi
 - ⚪ RemoteLoginDetection.md [@](RemoteLoginDetection.md) :-  Remote Login Detection — Windows & Linux  
 - ⚪ PrivilegeEscalationAttempt.md [@](PrivilegeEscalationAttempt.md) :- Privilege Escalation Attempt Detection — Windows & Linux
 - ⚪ Critical-FileChanges.md [@](Critical-FileChanges.md) :- Critical File Changes — Windows & Linux
-- ⚪
+- ⚪ Network-Connections.md [@](Network-Connections.md) :- Failed / Successful Network Connections — Windows & Linux
 - ⚪
 - ⚪
 - ⚪
