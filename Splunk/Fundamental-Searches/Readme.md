@@ -40,7 +40,7 @@ The **Fundamental Searches (FS)** folder contains **basic Splunk searches** desi
 - ⚪ LogDeletionAttempts.md [@](LogDeletionAttempts.md) :- Log Deletion Attempts — Windows & Linux
 - ⚪ Application-Errors.md [@](Application-Errors.md) :- Application Errors — Windows & Linux
 - ⚪ ConfigurationChanges.md [@](ConfigurationChanges.md) :- Configuration Changes — Windows & Linux
-- ⚪ suspiousProcessTermination.md [@](SuspiousProcessTermination.md) :- Suspicious Process Termination — Windows & Linux
+- ⚪ suspiousProcessTermination.md [@](SuspiciousProcessTermination.md) :- Suspicious Process Termination — Windows & Linux
 - ⚪ DNS-QueriesMonitoring.md [@](DNS-QueriesMonitoring.md) :- DNS Queries Monitoring — Windows & Linux
 - ⚪ 
 - ⚪
