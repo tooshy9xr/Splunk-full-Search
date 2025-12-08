@@ -1,4 +1,4 @@
-# 🌐 Splunk-Full-Search
+# 🌐 Splunk-Mastery
 
 ![Splunk](https://img.shields.io/badge/Splunk-Project-blue?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
