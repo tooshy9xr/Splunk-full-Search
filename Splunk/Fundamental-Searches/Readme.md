@@ -22,6 +22,9 @@ The **Fundamental Searches (FS)** folder contains **basic Splunk searches** to m
 
 ## 🔎 Search List
 
+### 🔍 Miscellaneous
+- ⚪ [Word Use Search](word-use-search.md)  
+
 ### 🔐 Authentication
 - ⚪ [Successful Logins](auth_success.md)  
 - ⚪ [Windows Authentication](WindowsAuthentication.md)  
@@ -62,8 +65,5 @@ The **Fundamental Searches (FS)** folder contains **basic Splunk searches** to m
 - ⚪ [Configuration Changes](ConfigurationChanges.md)  
 - ⚪ [Scheduled Task Creation](ScheduledTaskCreation.md)  
 - ⚪ [Application Errors](Application-Errors.md)  
-
-### 🔍 Miscellaneous
-- ⚪ [Word Use Search](word-use-search.md)  
 
 ---
