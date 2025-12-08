@@ -6,37 +6,49 @@ This project demonstrates practical skills in **Digital Forensics, Incident Resp
 ---
 
 ## 🔹 Project Modules
-- 📝 **Fundamental Searches** – Basic SPL queries for authentication, system logs, and events. [ Explore →](Fundamental-Searches/Readme.md)  
-- 🧩 **Advanced Searches** – Complex queries using subsearches, macros, and lookups.  
-- 📈 **Dashboards** – Interactive visualizations for quick security insights.  
-- 🚨 **Alerts** – Real-time notifications for critical events.  
-- 🔗 **Correlation Rules** – Combine events to detect sophisticated attacks.  
-- 📥 **Data Onboarding** – Sample datasets for Windows, Linux, and network devices.  
-- 💼 **Use Cases** – Practical SOC scenarios, log investigations, and threat hunting playbooks.  
-- 🔍 **Threat Hunting** – Hypotheses, queries, and reports to proactively detect anomalies.  
-- 🛡️ **Frameworks** – Blue Team & Red Team templates for monitoring.  
+
+| Module | Description | Link |
+|--------|------------|------|
+| 🌎 **Word Use Search** | Sample text search utilities | [Explore →](Fundamental-Searches/word-use-search.md) |
+| 📜 **Splunk Overview** | Review core concepts and project objectives | [Explore →](#) |
+| 📝 **Fundamental Searches** | Basic SPL queries for authentication, system logs, and events | [Explore →](Fundamental-Searches/Readme.md) |
+| 🧩 **Advanced Searches** | Complex queries using subsearches, macros, and lookups | [Explore →](#) |
+| 📈 **Dashboards** | Interactive visualizations for quick security insights | [Explore →](#) |
+| 🚨 **Alerts** | Real-time notifications for critical events | [Explore →](#) |
+| 🔗 **Correlation Rules** | Combine events to detect sophisticated attacks | [Explore →](#) |
+| 📥 **Data Onboarding** | Sample datasets for Windows, Linux, and network devices | [Explore →](#) |
+| 💼 **Use Cases** | Practical SOC scenarios, log investigations, and threat hunting playbooks | [Explore →](#) |
+| 🔍 **Threat Hunting** | Hypotheses, queries, and reports to proactively detect anomalies | [Explore →](#) |
+| 🛡️ **Frameworks** | Blue Team & Red Team templates for monitoring | [Explore →](#) |
 
 ---
 
 ## ⭐ Key Skills Highlighted
-- 🛡️ Security Monitoring & Threat Detection  
-- 🔎 Incident Response & Digital Forensics (DFIR)  
-- 📊 Splunk SPL Query Writing & Dashboard Design  
-- 🎯 Threat Hunting & SOC Analysis  
+- 🛡️ **Security Monitoring & Threat Detection**  
+- 🔎 **Incident Response & Digital Forensics (DFIR)**  
+- 📊 **Splunk SPL Query Writing & Dashboard Design**  
+- 🎯 **Threat Hunting & SOC Analysis**  
 
 ---
 
-## 🖥️ Splunk Project Structure
-- 📜 **Splunk Overview** 
-- 🌎 **Word Use Search**  [ Explore →](Fundamental-Searches/word-use-search.md)  
-- 1️⃣ **Fundamental Searches**  [ Explore →](Fundamental-Searches/Readme.md)  
-- 2️⃣ **Advanced Searches**   
-- 3️⃣ **Dashboards**   
-- 4️⃣ **Alerts** 
-- 5️⃣ **Correlation Rules** 
-- 6️⃣ **Data Onboarding**  
-- 7️⃣ **Use Cases**  
-- 8️⃣ **Threat Hunting**  
-- 9️⃣ **Frameworks**  
+## 🚀 How to Use
+1. 📥 **Clone** the repository to your local environment or Splunk instance.  
+2. 🗂️ **Navigate** to the folder that fits your task (searches, dashboards, alerts, etc.).  
+3. ⚙️ **Import or run** the SPL queries directly in Splunk.  
+4. ✏️ **Add your own notes, detections, and improvements** as you continue learning.  
 
 ---
+
+## 👥 Who Is This For?
+- SOC Analysts (L1–L3)  
+- Threat Hunters  
+- Detection Engineers  
+- Blue-team defenders  
+- Cybersecurity students & professionals  
+- Anyone preparing for interviews or certifications  
+
+---
+
+## 📞 Contact
+- GitHub: [tooshy9xr](https://github.com/tooshy9xr)  
+- LinkedIn: [Ali Hayder](https://www.linkedin.com/in/ali-hayder-ba3b0035)  
