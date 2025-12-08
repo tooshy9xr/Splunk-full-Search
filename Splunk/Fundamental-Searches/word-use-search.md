@@ -145,7 +145,6 @@
 ---
 ## SPL Keyword Explanations 🚀
 - by 🧩
-
 Used to group results in commands like stats, chart, top, etc.<br>
 Meaning: Group events by a specific field.<br>
 Example: 
