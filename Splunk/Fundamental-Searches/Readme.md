@@ -11,39 +11,57 @@ The **Fundamental Searches (FS)** folder contains **basic Splunk searches** to m
 
 ---
 
-## 📂 Contents Overview
-- ![🎯](https://img.shields.io/badge/Sample-Data-purple) **Sample Data** – Optional small log files for testing and demonstrations  
-- ![🔐](https://img.shields.io/badge/Authentication-blue) **Authentication Searches** – Track successful and failed logins  
-- ![⚙️](https://img.shields.io/badge/System-OS%20Logs-orange) **System Logs & Services** – Monitor OS events, service status, CPU/Memory usage  
-- ![📁](https://img.shields.io/badge/Application-Processes-green) **Application & Process Monitoring** – Track apps, processes, and suspicious activity  
-- ![🌐](https://img.shields.io/badge/Network-Remote%20Access-lightgrey) **Network & Remote Access** – Monitor connections, firewalls, DNS, and remote logins  
-- ![🛡](https://img.shields.io/badge/Security-Privilege-red) **Security & Privilege Monitoring** – Detect malware, privilege changes, account lockouts  
-- ![📝](https://img.shields.io/badge/Auditing-Threat%20Detection-yellow) **Auditing & Threat Detection** – Critical file changes, logs deletion, configuration changes  
+## 🔎 Search Details
 
----
-
-## 🔎 Search List
-
+- ⚪ [Word Use Search](word-use-search.md)
+  
 ### 🎯 Miscellaneous / Sample Data
-- ⚪ [Word Use Search](word-use-search.md)  
+  
+- ⚪ Sample Authentication Logs  
+- ⚪ Sample System Logs  
+- ⚪ Sample Network Logs  
+- ⚪ Sample Security Logs  
+- ⚪ Sample Application Logs  
+- ⚪ Sample Cloud Logs  
+- ⚪ Sample Database Logs  
 
-### 🔐 Authentication
+### 🔐 Authentication Searches
 - ⚪ [Successful Logins](auth_success.md)  
 - ⚪ [Windows Authentication](WindowsAuthentication.md)  
 - ⚪ [Linux Authentication](LinuxAuthentication.md)  
 - ⚪ [Failed Authentication](Failed-Authentication.md)  
+- ⚪ SSH Authentication  
+- ⚪ VPN Authentication  
+- ⚪ MFA Authentication  
+- ⚪ LDAP Queries  
+- ⚪ RADIUS/TACACS+ Logs  
+- ⚪ Brute Force Detection  
+- ⚪ Suspicious Logon Locations  
+
+### ⚙️ System Logs & Services
+- ⚪ [Service Start/Stop](ServiceStart-Stop.md)  
+- ⚪ [Software Installation](SoftwareInstallation.md)  
+- ⚪ [System Boot & Shutdown](SystemBoot&Shutdown.md)  
+- ⚪ [High CPU & Memory Usage](HighCPU&MemoryUsage.md)  
+- ⚪ Disk Usage  
+- ⚪ System Errors  
+- ⚪ Kernel Logs  
+- ⚪ Event Logs  
+- ⚪ Performance Metrics  
+- ⚪ Resource Monitoring  
 
 ### 📁 File & Process Monitoring
 - ⚪ [File Access](File-Access.md)  
 - ⚪ [Windows Process Creation](WindowsProcessCreation.md)  
 - ⚪ [Linux Process Monitoring](LinuxProcessMonitoring.md)  
 - ⚪ [Suspicious Process Termination](SuspiciousProcessTermination.md)  
-
-### ⚙️ System & Services
-- ⚪ [Service Start/Stop](ServiceStart-Stop.md)  
-- ⚪ [Software Installation](SoftwareInstallation.md)  
-- ⚪ [System Boot & Shutdown](SystemBoot&Shutdown.md)  
-- ⚪ [High CPU & Memory Usage](HighCPU&MemoryUsage.md)  
+- ⚪ File Deletions  
+- ⚪ File Modifications  
+- ⚪ Cron Job Monitoring  
+- ⚪ Scheduled Task Monitoring  
+- ⚪ Script Execution  
+- ⚪ Executable Launches  
+- ⚪ Sensitive File Tracking  
 
 ### 🛡 Security & Privilege Monitoring
 - ⚪ [Admin Privilege Changes](AdminPrivilegeChanges.md)  
@@ -51,12 +69,25 @@ The **Fundamental Searches (FS)** folder contains **basic Splunk searches** to m
 - ⚪ [Account Lockouts](Account-Lockouts.md)  
 - ⚪ [Malware Detection](Malware-Detection.md)  
 - ⚪ [Privilege Escalation Attempts](PrivilegeEscalationAttempt.md)  
+- ⚪ Phishing Detection  
+- ⚪ Ransomware Detection  
+- ⚪ IOC Monitoring  
+- ⚪ Policy Violations  
+- ⚪ Security Groups Changes  
+- ⚪ Audit Failures  
 
 ### 🌐 Network & Remote Access
 - ⚪ [Firewall Monitoring](Firewall-Monitoring.md)  
 - ⚪ [Network Connections](Network-Connections.md)  
 - ⚪ [Remote Login Detection](RemoteLoginDetection.md)  
 - ⚪ [DNS Queries Monitoring](DNS-QueriesMonitoring.md)  
+- ⚪ VPN Connections  
+- ⚪ SSH Sessions  
+- ⚪ Proxy Logs  
+- ⚪ Suspicious IP Detection  
+- ⚪ GeoIP Analysis  
+- ⚪ Port Scanning Detection  
+- ⚪ Network Anomaly Detection  
 
 ### 📝 Auditing & Threat Detection
 - ⚪ [Suspicious Command Usage](SuspiciousCommandUsage.md)  
@@ -67,5 +98,30 @@ The **Fundamental Searches (FS)** folder contains **basic Splunk searches** to m
 - ⚪ [Configuration Changes](ConfigurationChanges.md)  
 - ⚪ [Scheduled Task Creation](ScheduledTaskCreation.md)  
 - ⚪ [Application Errors](Application-Errors.md)  
+- ⚪ Security Event Correlation  
+- ⚪ System Misconfigurations  
+- ⚪ Threat Detection Patterns  
+- ⚪ User Behavior Analytics  
+
+### ☁️ Cloud Monitoring
+- ⚪ AWS Logs  
+- ⚪ Azure Logs  
+- ⚪ GCP Logs  
+- ⚪ Cloud Storage Access  
+- ⚪ Cloud IAM Changes  
+- ⚪ Cloud Network Traffic  
+
+### 🗄️ Database Monitoring
+- ⚪ SQL Queries Monitoring  
+- ⚪ Failed DB Connections  
+- ⚪ DB Schema Changes  
+- ⚪ Slow Queries  
+
+### 💻 Endpoint & Device Monitoring
+- ⚪ Laptop & Workstation Logs  
+- ⚪ Peripheral Device Monitoring  
+- ⚪ Software Install/Uninstall  
+- ⚪ Endpoint Threat Detection  
+- ⚪ System Configuration Changes  
 
 ---
