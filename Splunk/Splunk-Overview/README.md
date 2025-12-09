@@ -8,7 +8,7 @@ Designed as a clean, structured starting point for anyone learning Splunk.
 # 🗂️ Folder Structure / 📘 **Overview for Splunk**
 | Module | Description | Link |
 |--------|-------------|------|
-| 🧩 **1 – Introduction** | What Splunk is, its products, and why it matters | Explore | 
+| 🧩 **1 – Introduction** | What Splunk is, its products, and why it matters | 👇 | 
 |        |             |      |
 | 📄 What is Splunk | Definition, purpose, and core capabilities | [Open](Introduction/what-is-splunk.md) |
 | 📦 Splunk Products | Enterprise, Cloud, ES, SOAR, Observability | Open|
