@@ -16,7 +16,7 @@ Designed as a clean, structured starting point for anyone learning Splunk.
 |        |             |      |
 | 🏗️ **2 – Architecture** | Core system architecture and data flow | 👇 |
 |        |             |      |
-| 🧱 Core Components | Search Head, Indexer, Forwarders, DS, CM | Open |
+| 🧱 Core Components | Search Head, Indexer, Forwarders, DS, CM | [Open](Architecture/splunk-core-components.md) |
 | 🔄 Data Pipeline | Input → Parsing → Indexing → Search Flow | Open |
 | 📚 Indexers Explained | Buckets, storage tiers, indexing logic | Open |
 | 🔍 Search Head Explained | Search distribution & result merging | Open |
