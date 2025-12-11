@@ -227,4 +227,4 @@ Splunk alerts:
 - Are essential for SOC and IT operations  
 - Must be tuned to reduce noise  
 
-This file is ready to add into your GitHub documentation as **alerts-basics.md**.
+
