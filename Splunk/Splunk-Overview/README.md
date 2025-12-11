@@ -40,6 +40,6 @@ Designed as a clean, structured starting point for anyone learning Splunk.
 |        |             |      |
 | 📊 Dashboards Basics | Panels, inputs, visualizations | [Open](Operational-Use/dashboards-basics.md) |
 | 🚨 Alerts Basics | RT alerts, scheduled alerts, throttling | [Open](Operational-Use/alerts-basics.md)|
-| 🔧 Monitoring & Maintenance | Indexer health, forwarder status, storage lifecycle | Open |
+| 🔧 Monitoring & Maintenance | Indexer health, forwarder status, storage lifecycle | [Open](Operational-Use/monitoring-and-maintenance.md) |
 
 ---
