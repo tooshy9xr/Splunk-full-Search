@@ -10,7 +10,7 @@ This project demonstrates practical skills in **Digital Forensics, Incident Resp
 | Module | Description | Link |
 |--------|------------|------|
 | 📜 **Splunk Overview** | Review core concepts and project objectives | [Explore ](Splunk-Overview/README.md) |
-| 🌎 **Word Use Search** | Sample text search utilities | [Explore ](Fundamental-Searches/word-use-search.md) |
+| 🌎 **Word Use Search** | Sample text search utilities | [Explore ](word-use-search.md) |
 | 📝 **Fundamental Searches** | Basic SPL queries for authentication, system logs, and events | [Explore ](Fundamental-Searches/Readme.md) |
 | 🧩 **Advanced Searches** | Complex queries using subsearches, macros, and lookups | Explore |
 | 📈 **Dashboards** | Interactive visualizations for quick security insights | Explore |
