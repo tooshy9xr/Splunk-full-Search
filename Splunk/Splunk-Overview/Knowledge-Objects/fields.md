@@ -269,4 +269,4 @@ Splunk fields are the foundation for:
 
 By understanding **field types, extraction, normalization, and SPL manipulation**, you can build highly optimized searches and clean, powerful datasets.
 
-This file can be placed directly into your GitHub documentation as `fields.md`.
+
