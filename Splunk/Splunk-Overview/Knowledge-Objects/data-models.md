@@ -301,4 +301,4 @@ Splunk Data Models provide:
 
 Understanding Data Models is critical for large-scale Splunk deployments and SOC environments.
 
-This file is ready to use as **data-models.md** in your GitHub documentation.
+
