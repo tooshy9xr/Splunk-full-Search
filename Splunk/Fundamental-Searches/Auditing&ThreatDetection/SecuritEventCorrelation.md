@@ -140,5 +140,4 @@ This version of **Security Event Correlation** is designed specifically for your
 - Simple SPL-only logic  
 - Beginner-friendly event pairing  
 
-This file is ready for GitHub under:  
-**Fundamental-Searches/SecurityEventCorrelation.md**
+
