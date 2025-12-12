@@ -98,7 +98,7 @@ The **Fundamental Searches (FS)** folder contains **basic Splunk searches** to m
 - ⚪ [Application Errors](Auditing&ThreatDetection/Application-Errors.md)  
 - ⚪ [Security Event Correlation](Auditing&ThreatDetection/SecuritEventCorrelation.md)
 - ⚪ [System Misconfigurations](Auditing&ThreatDetection/SystemMisconfigurations.md)
-- ⚪ [Threat Detection Patterns]
+- ⚪ [Threat Detection Patterns](Auditing&ThreatDetection/ThreatDetection-Patterns.md)
 - ⚪ User Behavior Analytics  
 
 ### ☁️ Cloud Monitoring
