@@ -1,0 +1,137 @@
+# 🗄️ Sample Database Logs  
+This file contains **sample logs from various database systems** (MySQL, PostgreSQL, Oracle, SQL Server) to test Splunk searches, monitoring, and alerting.  
+Includes query executions, login attempts, errors, slow queries, schema changes, and security events.
+
+---
+
+# 1. MySQL Logs
+
+## ✅ Successful Query  
+```
+2025-02-12 10:15:11 mysql01 Query: SELECT * FROM employees WHERE id=123; User=reporting Status=Success
+```
+
+## ❌ Failed Query / Syntax Error  
+```
+2025-02-12 10:17:21 mysql01 Query: INSERT INTO users VALUES(NULL,'john','pass'); Error=Duplicate entry User=admin
+```
+
+## ⚠️ Slow Query  
+```
+2025-02-12 10:20:45 mysql01 Query: SELECT * FROM transactions WHERE amount>10000; Duration=8.5s User=finance
+```
+
+## 🔐 Unauthorized Access Attempt  
+```
+2025-02-12 10:22:33 mysql01 User=guest Query: DROP TABLE salaries; Status=Denied
+```
+
+---
+
+# 2. PostgreSQL Logs
+
+## ✅ Successful Login  
+```
+2025-02-12 11:02:11 pg01 User=alice Database=employees Status=Success
+```
+
+## ❌ Failed Login  
+```
+2025-02-12 11:05:33 pg01 User=guest Database=finance Reason=InvalidPassword
+```
+
+## ⚠️ Long-running Query  
+```
+2025-02-12 11:10:12 pg01 Query: SELECT * FROM payments WHERE amount>5000; Duration=12.3s User=bob
+```
+
+## 🔄 Schema Change  
+```
+2025-02-12 11:15:22 pg01 ALTER TABLE employees ADD COLUMN bonus INT; User=itadmin Status=Success
+```
+
+---
+
+# 3. Oracle Logs
+
+## ✅ Successful Connection  
+```
+2025-02-12 12:01:11 oracle01 Connection User=finance_app Database=ORCL Status=Success
+```
+
+## ❌ Failed Login Attempt  
+```
+2025-02-12 12:03:33 oracle01 Connection User=guest Database=ORCL Status=Failed Reason=BadCredentials
+```
+
+## ⚠️ Query Timeout  
+```
+2025-02-12 12:07:22 oracle01 Query: SELECT * FROM payroll; Duration=25s User=payroll_app
+```
+
+## 🔄 DDL Change  
+```
+2025-02-12 12:10:44 oracle01 CREATE INDEX idx_salary ON employees(salary); User=DBAdmin Status=Success
+```
+
+---
+
+# 4. SQL Server Logs
+
+## ✅ Successful Query  
+```
+2025-02-12 13:15:11 sqlsrv01 Query: SELECT * FROM Sales.Orders WHERE Amount>1000; User=sales_app Status=Success
+```
+
+## ❌ Query Error  
+```
+2025-02-12 13:17:33 sqlsrv01 Query: INSERT INTO Orders VALUES(NULL, '2025-02-12', 500); Error=Violation of PRIMARY KEY User=guest
+```
+
+## ⚠️ Deadlock Detected  
+```
+2025-02-12 13:20:44 sqlsrv01 Error=Deadlock User=finance_app ProcessID=4521
+```
+
+## 🔄 Permission Change  
+```
+2025-02-12 13:22:33 sqlsrv01 ALTER ROLE db_datareader ADD MEMBER john_doe; User=DBAdmin
+```
+
+---
+
+# 5. Security & Monitoring Events
+
+## 🔐 Unauthorized Access  
+```
+2025-02-12 13:35:21 mysql01 User=unknown IP=203.0.113.78 Attempt=FailedLogin
+```
+
+## ⚠️ Privilege Escalation  
+```
+2025-02-12 13:40:11 pg01 ALTER USER alice WITH SUPERUSER; Status=Success
+```
+
+## 💾 Data Export  
+```
+2025-02-12 13:45:33 sqlsrv01 User=bob Exported Table=Finance.Employees Rows=1500
+```
+
+## 🌍 Remote Connection  
+```
+2025-02-12 13:50:22 oracle01 Connection User=admin SrcIP=198.51.100.25 Database=ORCL Status=Success
+```
+
+---
+
+# Summary
+
+This file includes sample logs for:
+
+- Query execution (success/failure)  
+- Login attempts and authentication  
+- Slow queries / performance monitoring  
+- Schema / DDL changes  
+- Permission and role changes  
+- Security and data access events  
+- Database-specific events (MySQL, PostgreSQL, Oracle, SQL Server)  
