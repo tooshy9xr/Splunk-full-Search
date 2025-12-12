@@ -21,7 +21,7 @@ The **Fundamental Searches (FS)** folder contains **basic Splunk searches** to m
 - ⚪ [Sample Security Logs](Miscellaneous-Data/SampleSecurityLogs.md)
 - ⚪ [Sample Application Logs](Miscellaneous-Data/SampleApplicationLogs.md)
 - ⚪ [Sample Cloud Logs](Miscellaneous-Data/Sample-Cloud-Logs.md)
-- ⚪ [Sample Database Logs](Miscellaneous-Data/
+- ⚪ [Sample Database Logs](Miscellaneous-Data/Sample-Database-Logs)
 
 ### 🔐 Authentication Searches
 - ⚪ [Successful Logins](auth_success.md)  
