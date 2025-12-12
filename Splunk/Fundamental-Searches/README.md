@@ -96,7 +96,7 @@ The **Fundamental Searches (FS)** folder contains **basic Splunk searches** to m
 - ⚪ [Configuration Changes](Auditing&ThreatDetection/ConfigurationChanges.md)  
 - ⚪ [Scheduled Task Creation](Auditing&ThreatDetection/ScheduledTaskCreation.md)  
 - ⚪ [Application Errors](Auditing&ThreatDetection/Application-Errors.md)  
-- ⚪ Security Event Correlation  
+- ⚪ [Security Event Correlation](Auditing&ThreatDetection/SecuritEventCorrelation.md)
 - ⚪ System Misconfigurations  
 - ⚪ Threat Detection Patterns  
 - ⚪ User Behavior Analytics  
