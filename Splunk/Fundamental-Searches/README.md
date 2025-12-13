@@ -56,7 +56,7 @@ The **Fundamental Searches (FS)** folder contains **basic Splunk searches** to m
 - ⚪ [File Deletion](File&Process-Monitoring/File-Deletion.md)
 - ⚪ [File Modifications](File&Process-Monitoring/File-Modifications.md)
 - ⚪ [Cron Job Monitoring](File&Process-Monitoring/Cron-Job-Monitoring.md)
-- ⚪ [Script Execution](File&Process-Monitoring/
+- ⚪ [Script Execution](File&Process-Monitoring/Script-Execution.md)
 - ⚪ [Executable Launches](File&Process-Monitoring/
 - ⚪ [Sensitive File Tracking](File&Process-Monitoring/
 
