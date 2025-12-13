@@ -44,8 +44,8 @@ The **Fundamental Searches (FS)** folder contains **basic Splunk searches** to m
 - ⚪ [Disk Usage](SystemLogs&Services/Disk-Usage.md)
 - ⚪ [System Errors](SystemLogs&Services/System-Errors.md)
 - ⚪ [Kernel Logs](SystemLogs&Services/KernelLogs.md)
-- ⚪ [Event Logs](
-- ⚪ [Performance Metrics ](
+- ⚪ [Event Logs](SystemLogs&Services/Event-Logs.md)
+- ⚪ [Performance Metrics ](SystemLogs&Services/
 - ⚪ [Resource Monitoring](
 
 ### 📁 File & Process Monitoring
