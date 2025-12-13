@@ -31,7 +31,7 @@ The **Fundamental Searches (FS)** folder contains **basic Splunk searches** to m
 - ⚪ [SSH Authentication](Authentication-Searches/SSH-Authentication.md)
 - ⚪ [VPN Authentication](Authentication-Searches/VPN-Authentication.md)
 - ⚪ [MFA Authentication](Authentication-Searches/MFA-Authentication.md)
-- ⚪ LDAP Queries  
+- ⚪ [LDAP Queries](Authentication-Searches/LDAP-Queries.md)
 - ⚪ RADIUS/TACACS+ Logs  
 - ⚪ Brute Force Detection  
 - ⚪ Suspicious Logon Locations  
