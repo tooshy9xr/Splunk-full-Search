@@ -42,11 +42,11 @@ The **Fundamental Searches (FS)** folder contains **basic Splunk searches** to m
 - ⚪ [System Boot & Shutdown](SystemLogs&Services/SystemBoot&Shutdown.md)  
 - ⚪ [High CPU & Memory Usage](SystemLogs&Services/HighCPU&MemoryUsage.md)  
 - ⚪ [Disk Usage](SystemLogs&Services/Disk-Usage.md)
-- ⚪ System Errors  
-- ⚪ Kernel Logs  
-- ⚪ Event Logs  
-- ⚪ Performance Metrics  
-- ⚪ Resource Monitoring  
+- ⚪ [System Errors](
+- ⚪ [Kernel Logs]( 
+- ⚪ [Event Logs](
+- ⚪ [Performance Metrics ](
+- ⚪ [Resource Monitoring](
 
 ### 📁 File & Process Monitoring
 - ⚪ [File Access](File-Access.md)  
