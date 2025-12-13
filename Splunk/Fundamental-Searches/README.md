@@ -61,17 +61,17 @@ The **Fundamental Searches (FS)** folder contains **basic Splunk searches** to m
 - ⚪ [Sensitive File Tracking](File&Process-Monitoring/Sensitive-File-Tracking.md)
 
 ### 🛡 Security & Privilege Monitoring
-- ⚪ [Admin Privilege Changes](AdminPrivilegeChanges.md)  
-- ⚪ [User Creation & Deletion](UserCreation&Deletion.md)  
-- ⚪ [Account Lockouts](Account-Lockouts.md)  
-- ⚪ [Malware Detection](Malware-Detection.md)  
-- ⚪ [Privilege Escalation Attempts](PrivilegeEscalationAttempt.md)  
-- ⚪ Phishing Detection  
-- ⚪ Ransomware Detection  
-- ⚪ IOC Monitoring  
-- ⚪ Policy Violations  
-- ⚪ Security Groups Changes  
-- ⚪ Audit Failures  
+- ⚪ [Admin Privilege Changes](Security&Privilege-Monitoring/AdminPrivilegeChanges.md)  
+- ⚪ [User Creation & Deletion](Security&Privilege-Monitoring/UserCreation&Deletion.md)  
+- ⚪ [Account Lockouts](Security&Privilege-Monitoring/Account-Lockouts.md)  
+- ⚪ [Malware Detection](Security&Privilege-Monitoring/Malware-Detection.md)  
+- ⚪ [Privilege Escalation Attempts](Security&Privilege-Monitoring/PrivilegeEscalationAttempt.md)  
+- ⚪ [Phishing Detection](Security&Privilege-Monitoring/
+- ⚪ [Ransomware Detection](Security&Privilege-Monitoring/
+- ⚪ [IOC Monitoring](Security&Privilege-Monitoring/  
+- ⚪ [Policy Violations](Security&Privilege-Monitoring/  
+- ⚪ [Security Groups Changes](Security&Privilege-Monitoring/  
+- ⚪ [Audit Failures](Security&Privilege-Monitoring/  
 
 ### 🌐 Network & Remote Access
 - ⚪ [Firewall Monitoring](Firewall-Monitoring.md)  
