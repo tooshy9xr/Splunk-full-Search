@@ -29,7 +29,7 @@ The **Fundamental Searches (FS)** folder contains **basic Splunk searches** to m
 - ⚪ [Linux Authentication](Authentication-Searches/LinuxAuthentication.md)  
 - ⚪ [Failed Authentication](Authentication-Searches/Failed-Authentication.md)  
 - ⚪ [SSH Authentication](Authentication-Searches/SSH-Authentication.md)
-- ⚪ VPN Authentication  
+- ⚪ [VPN Authentication](Authentication-Searches/VPN-Authentication.md)
 - ⚪ MFA Authentication  
 - ⚪ LDAP Queries  
 - ⚪ RADIUS/TACACS+ Logs  
@@ -41,7 +41,7 @@ The **Fundamental Searches (FS)** folder contains **basic Splunk searches** to m
 - ⚪ [Software Installation](SoftwareInstallation.md)  
 - ⚪ [System Boot & Shutdown](SystemBoot&Shutdown.md)  
 - ⚪ [High CPU & Memory Usage](HighCPU&MemoryUsage.md)  
-- ⚪ Disk Usage  
+- ⚪ [Disk Usage]  
 - ⚪ System Errors  
 - ⚪ Kernel Logs  
 - ⚪ Event Logs  
