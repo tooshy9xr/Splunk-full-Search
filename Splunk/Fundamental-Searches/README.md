@@ -71,7 +71,7 @@ The **Fundamental Searches (FS)** folder contains **basic Splunk searches** to m
 - ⚪ [IOC Monitoring](Security&Privilege-Monitoring/IOC-Monitoring.md)
 - ⚪ [Policy Violations](Security&Privilege-Monitoring/Policy-Violations.md)
 - ⚪ [Security Groups Changes](Security&Privilege-Monitoring/Security-Groups-Changes.md)
-- ⚪ [Audit Failures](Security&Privilege-Monitoring/  
+- ⚪ [Audit Failures](Security&Privilege-Monitoring/Audit-Failures.md)
 
 ### 🌐 Network & Remote Access
 - ⚪ [Firewall Monitoring](Firewall-Monitoring.md)  
