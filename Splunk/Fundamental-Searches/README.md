@@ -67,7 +67,7 @@ The **Fundamental Searches (FS)** folder contains **basic Splunk searches** to m
 - ⚪ [Malware Detection](Security&Privilege-Monitoring/Malware-Detection.md)  
 - ⚪ [Privilege Escalation Attempts](Security&Privilege-Monitoring/PrivilegeEscalationAttempt.md)  
 - ⚪ [Phishing Detection](Security&Privilege-Monitoring/Phishing-Detection.md)
-- ⚪ [Ransomware Detection](Security&Privilege-Monitoring/
+- ⚪ [Ransomware Detection](Security&Privilege-Monitoring/Ransomware-Detection.md)
 - ⚪ [IOC Monitoring](Security&Privilege-Monitoring/  
 - ⚪ [Policy Violations](Security&Privilege-Monitoring/  
 - ⚪ [Security Groups Changes](Security&Privilege-Monitoring/  
