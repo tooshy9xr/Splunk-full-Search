@@ -84,7 +84,7 @@ The **Fundamental Searches (FS)** folder contains **basic Splunk searches** to m
 - ⚪ [Suspicious IP Detection](Network&Remote-Access/Suspicious-IP-Detection.md)
 - ⚪ [GeoIP Analysis](Network&Remote-Access/GeoIP-Analysis.md)
 - ⚪ [Port Scanning Detection](Network&Remote-Access/Port-Scanning-Detection.md) 
-- ⚪ [Network Anomaly Detection](Network&Remote-Access/  
+- ⚪ [Network Anomaly Detection](Network&Remote-Access/Network-Anomaly-Detection.md)
 
 ### 📝 Auditing & Threat Detection
 - ⚪ [Suspicious Command Usage](Auditing&ThreatDetection/SuspiciousCommandUsage.md)  
