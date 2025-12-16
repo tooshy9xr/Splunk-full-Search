@@ -109,7 +109,7 @@ The **Fundamental Searches (FS)** folder contains **basic Splunk searches** to m
 - ⚪ [Cloud Network Traffic](Cloud-Monitoring/Cloud-Network-Traffic.md)
 
 ### 🗄️ Database Monitoring](
-- ⚪ [SQL Queries Monitoring](Database-Monitoring/  
+- ⚪ [SQL Queries Monitoring](Database-Monitoring/SQL-Queries-Monitoring.md) 
 - ⚪ [Failed DB Connections](Database-Monitoring/ 
 - ⚪ [DB Schema Changes](Database-Monitoring/  
 - ⚪ [Slow Queries](Database-Monitoring/  
