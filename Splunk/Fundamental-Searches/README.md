@@ -111,7 +111,7 @@ The **Fundamental Searches (FS)** folder contains **basic Splunk searches** to m
 ### 🗄️ Database Monitoring](
 - ⚪ [SQL Queries Monitoring](Database-Monitoring/SQL-Queries-Monitoring.md) 
 - ⚪ [Failed DB Connections](Database-Monitoring/Failed-DB-Connections.md)
-- ⚪ [DB Schema Changes](Database-Monitoring/  
+- ⚪ [DB Schema Changes](Database-Monitoring/DB-Schema-Changes.md)
 - ⚪ [Slow Queries](Database-Monitoring/  
 
 ### 💻 Endpoint & Device Monitoring
