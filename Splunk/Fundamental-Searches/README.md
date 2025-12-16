@@ -108,11 +108,11 @@ The **Fundamental Searches (FS)** folder contains **basic Splunk searches** to m
 - ⚪ [Cloud IAM Changes](Cloud-Monitoring/Cloud-IAM-Changes.md) 
 - ⚪ [Cloud Network Traffic](Cloud-Monitoring/Cloud-Network-Traffic.md)
 
-### 🗄️ Database Monitoring
-- ⚪ SQL Queries Monitoring  
-- ⚪ Failed DB Connections  
-- ⚪ DB Schema Changes  
-- ⚪ Slow Queries  
+### 🗄️ Database Monitoring](
+- ⚪ [SQL Queries Monitoring](Database-Monitoring/  
+- ⚪ [Failed DB Connections](Database-Monitoring/ 
+- ⚪ [DB Schema Changes](Database-Monitoring/  
+- ⚪ [Slow Queries](Database-Monitoring/  
 
 ### 💻 Endpoint & Device Monitoring
 - ⚪ Laptop & Workstation Logs  
