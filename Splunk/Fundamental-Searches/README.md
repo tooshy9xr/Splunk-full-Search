@@ -102,7 +102,7 @@ The **Fundamental Searches (FS)** folder contains **basic Splunk searches** to m
 
 ### ☁️ Cloud Monitoring
 - ⚪ [AWS Logs](Cloud-Monitoring/AWS-Logs.md)
-- ⚪ [Azure Logs](Cloud-Monitoring/ 
+- ⚪ [Azure Logs](Cloud-Monitoring/Azure-Logs.md)
 - ⚪ [GCP Logs](Cloud-Monitoring/ 
 - ⚪ [Cloud Storage Access](Cloud-Monitoring/  
 - ⚪ [Cloud IAM Changes](Cloud-Monitoring/  
