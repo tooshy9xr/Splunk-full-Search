@@ -29,7 +29,7 @@ This folder represents the **core intelligence layer** of your Splunk project.
 ## 🧩 Core Advanced Search Domains
 
 ### 🔐 Authentication & Identity Analytics
-- Credential abuse patterns  
+- [Credential abuse patterns](Authentication&Identity-Analytics/Credential-abuse-patterns.md)
 - Lateral authentication movement  
 - Impossible travel detection  
 - MFA bypass behavior  
