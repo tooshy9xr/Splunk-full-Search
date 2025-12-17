@@ -32,7 +32,7 @@ This folder represents the **core intelligence layer** of your Splunk project.
 - [Credential abuse patterns](Authentication&Identity-Analytics/Credential-abuse-patterns.md)
 - [Lateral authentication movement](Authentication&Identity-Analytics/Lateral-authentication-movement.md)
 - [Impossible travel detection](Authentication&Identity-Analytics/Impossible-travel-detection.md) 
-- [MFA bypass behavior](Authentication&Identity-Analytics/  
+- [MFA bypass behavior](Authentication&Identity-Analytics/MFA-bypass-behavior.md) 
 - [Privilege escalation chains](Authentication&Identity-Analytics/  
 
 ---
