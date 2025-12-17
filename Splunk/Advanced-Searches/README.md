@@ -31,7 +31,7 @@ This folder represents the **core intelligence layer** of your Splunk project.
 ### 🔐 Authentication & Identity Analytics
 - [Credential abuse patterns](Authentication&Identity-Analytics/Credential-abuse-patterns.md)
 - [Lateral authentication movement](Authentication&Identity-Analytics/Lateral-authentication-movement.md)
-- [Impossible travel detection](Authentication&Identity-Analytics/  
+- [Impossible travel detection](Authentication&Identity-Analytics/Impossible-travel-detection.md) 
 - [MFA bypass behavior](Authentication&Identity-Analytics/  
 - [Privilege escalation chains](Authentication&Identity-Analytics/  
 
