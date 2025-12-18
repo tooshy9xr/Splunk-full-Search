@@ -47,11 +47,11 @@ This folder represents the **core intelligence layer** of your Splunk project.
 ---
 
 ### 🧨 Threat Detection & Attack Patterns
-- Living-Off-The-Land (LOLBins)  
-- Fileless malware patterns  
-- Ransomware behavior chains  
-- Command & Control (C2) behavior  
-- Persistence technique detection  
+- [Living-Off-The-Land (LOLBins)](Threat-Detection&Attack-Patterns/Living-Off-The-Land.md)
+- [Fileless malware patterns](Threat-Detection&Attack-Patterns/  
+- [Ransomware behavior chains](Threat-Detection&Attack-Patterns/  
+- [Command & Control (C2) behavior](Threat-Detection&Attack-Patterns/  
+- [Persistence technique detection](Threat-Detection&Attack-Patterns/  
 
 ---
 
