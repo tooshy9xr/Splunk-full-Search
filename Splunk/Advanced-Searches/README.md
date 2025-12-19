@@ -74,11 +74,11 @@ This folder represents the **core intelligence layer** of your Splunk project.
 ---
 
 ### 📊 Statistical & Anomaly-Based Searches
-- Outlier detection  
-- Rare event modeling  
-- Time-series analysis  
-- Threshold-less detection  
-- Seasonal behavior modeling  
+- [Outlier detection](Statistical&Anomaly-Based-Searches/Outlier-detection.md)  
+- [Rare event modeling](Statistical&Anomaly-Based-Searches/    
+- [Time-series analysis](Statistical&Anomaly-Based-Searches/    
+- [Threshold-less detection](Statistical&Anomaly-Based-Searches/   
+- [Seasonal behavior modeling](Statistical&Anomaly-Based-Searches/  
 
 ---
 
