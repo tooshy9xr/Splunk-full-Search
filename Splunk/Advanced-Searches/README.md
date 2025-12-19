@@ -65,11 +65,11 @@ This folder represents the **core intelligence layer** of your Splunk project.
 ---
 
 ### 🌐 Advanced Network Analytics
-- Beaconing detection  
-- DNS tunneling  
-- East-West traffic anomalies  
-- Encrypted traffic analysis  
-- Network behavior baselining  
+- [Beaconing detection](Advanced-Network/Beaconing-detection.md)  
+- [DNS tunneling](Advanced-Network/  
+- [East-West traffic anomalies](Advanced-Network/  
+- [Encrypted traffic analysis](Advanced-Network/  
+- [Network behavior baselining](Advanced-Network/  
 
 ---
 
