@@ -87,6 +87,7 @@ The **Fundamental Searches (FS)** folder contains **basic Splunk searches** to m
 - ⚪ [Network Anomaly Detection](Network&Remote-Access/Network-Anomaly-Detection.md)
 
 ### 📝 Auditing & Threat Detection
+- ⚪ [Dos / Ddos detection ](Auditing&ThreatDetection/DoS-DDoS-detection.md)
 - ⚪ [Suspicious Command Usage](Auditing&ThreatDetection/SuspiciousCommandUsage.md)  
 - ⚪ [Critical File Changes](Auditing&ThreatDetection/Critical-FileChanges.md)  
 - ⚪ [Suspicious File Downloads](Auditing&ThreatDetection/SuspiciousFileDownloads.md)  
