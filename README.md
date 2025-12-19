@@ -32,7 +32,7 @@ This repository demonstrates practical Splunk skills through:
 | 🌎 **Word Use Search** | Sample text search utilities | [Explore](Splunk/word-use-search.md) |
 | 📝 **Fundamental Searches** | Basic SPL queries for authentication, system, and application logs | [Explore](Splunk/Fundamental-Searches/README.md) |
 | 🧩 **Advanced Searches** | Subsearches, macros, lookups | [Explore](Splunk/Advanced-Searches/README.md) |
-| 📊 **Dashboards** | Interactive visualizations | Explore |
+| 📊 **Dashboards** | Interactive visualizations | [Explore](Splunk/Dashboards/README.md) |
 | 🚨 **Alerts** | Real-time notifications | Explore |
 | 🔗 **Correlation Rules** | Multi-event detection | Explore) |
 | 📥 **Data Onboarding** | Sample datasets & ingestion workflows | Explore) |
