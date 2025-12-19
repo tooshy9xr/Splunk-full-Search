@@ -87,7 +87,7 @@ This folder represents the **core intelligence layer** of your Splunk project.
 - [IOC lifecycle monitoring](Threat-Intelligence&IOC-Enrichment/IOC-lifecycle-monitoring.md)
 - [Hash, IP, domain enrichment](Threat-Intelligence&IOC-Enrichment/Hash,IP,domain-enrichment.md)  
 - [False-positive reduction logic](Threat-Intelligence&IOC-Enrichment/False-positive-reduction-logic.md)
-- [Dynamic watchlists](Threat-Intelligence&IOC-Enrichment/  
+- [Dynamic watchlists](Threat-Intelligence&IOC-Enrichment/Dynamic-watchlists.md)  
 
 ---
 
