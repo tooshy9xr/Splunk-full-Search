@@ -114,7 +114,7 @@ This folder represents the **core intelligence layer** of your Splunk project.
 - [Data exfiltration via DB](Database&Application-Intelligence/Data-exfiltration-via-DB.md)
 - [Application abuse patterns](Database&Application-Intelligence/Application-abuse-patterns.md)  
 - [API misuse detection](Database&Application-Intelligence/API-misuse-detection.md) 
-- [Insider threat indicators](Database&Application-Intelligence/
+- [Insider threat indicators](Database&Application-Intelligence/Insider-threat-indicators.md)
 
 ---
 
