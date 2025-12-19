@@ -83,11 +83,11 @@ This folder represents the **core intelligence layer** of your Splunk project.
 ---
 
 ### 🧬 Threat Intelligence & IOC Enrichment
-- External threat feed correlation  
-- IOC lifecycle monitoring  
-- Hash, IP, domain enrichment  
-- False-positive reduction logic  
-- Dynamic watchlists  
+- [External threat feed correlation](Threat-Intelligence&IOC-Enrichment/External-threat-feed-correlation.md) 
+- [IOC lifecycle monitoring](Threat-Intelligence&IOC-Enrichment/
+- [Hash, IP, domain enrichment](Threat-Intelligence&IOC-Enrichment/  
+- [False-positive reduction logic](Threat-Intelligence&IOC-Enrichment/  
+- [Dynamic watchlists](Threat-Intelligence&IOC-Enrichment/  
 
 ---
 
